@@ -2,13 +2,6 @@
   "attractions": [
     
       {
-        "id": "/attractions/beaches.html",
-        "url": "/attractions/beaches.html",
-        "title": "Beaches in Panglao Island",
-        "price": Free
-      },
-    
-      {
         "id": "/attractions/baclayonchurch.html",
         "url": "/attractions/baclayonchurch.html",
         "title": "Baclayon Church",
@@ -16,30 +9,23 @@
       },
     
       {
-        "id": "/attractions/bloodcompact.html",
-        "url": "/attractions/bloodcompact.html",
-        "title": "Blood Compact Shrine",
+        "id": "/attractions/beaches.html",
+        "url": "/attractions/beaches.html",
+        "title": "Beaches in Panglao Island",
         "price": Free
-      },
-    
-      {
-        "id": "/attractions/hinagdanancave.html",
-        "url": "/attractions/hinagdanancave.html",
-        "title": "Hinagdanan Cave",
-        "price": 175
-      },
-    
-      {
-        "id": "/attractions/chocohills.html",
-        "url": "/attractions/chocohills.html",
-        "title": "Chocolate Hills",
-        "price": 100
       },
     
       {
         "id": "/attractions/bilarforest.html",
         "url": "/attractions/bilarforest.html",
         "title": "Bilar Man-Made Forest",
+        "price": Free
+      },
+    
+      {
+        "id": "/attractions/bloodcompact.html",
+        "url": "/attractions/bloodcompact.html",
+        "title": "Blood Compact Shrine",
         "price": Free
       },
     
@@ -55,6 +41,20 @@
         "url": "/attractions/lobocriver.html",
         "title": "Loboc River Cruise",
         "price": 750
+      },
+    
+      {
+        "id": "/attractions/chocohills.html",
+        "url": "/attractions/chocohills.html",
+        "title": "Chocolate Hills",
+        "price": 100
+      },
+    
+      {
+        "id": "/attractions/hinagdanancave.html",
+        "url": "/attractions/hinagdanancave.html",
+        "title": "Hinagdanan Cave",
+        "price": 175
       },
     
       {
