@@ -2,10 +2,24 @@
   "attractions": [
     
       {
-        "id": "/attractions/baclayonchurch.html",
-        "url": "/attractions/baclayonchurch.html",
-        "title": "Baclayon Church",
-        "price": 50
+        "id": "/attractions/enchantedgarden.html",
+        "url": "/attractions/enchantedgarden.html",
+        "title": "Enchanted Garden",
+        "price": 100
+      },
+    
+      {
+        "id": "/attractions/chocohills.html",
+        "url": "/attractions/chocohills.html",
+        "title": "Chocolate Hills",
+        "price": 100
+      },
+    
+      {
+        "id": "/attractions/bloodcompact.html",
+        "url": "/attractions/bloodcompact.html",
+        "title": "Blood Compact Shrine",
+        "price": Free
       },
     
       {
@@ -23,38 +37,17 @@
       },
     
       {
-        "id": "/attractions/bloodcompact.html",
-        "url": "/attractions/bloodcompact.html",
-        "title": "Blood Compact Shrine",
-        "price": Free
-      },
-    
-      {
-        "id": "/attractions/enchantedgarden.html",
-        "url": "/attractions/enchantedgarden.html",
-        "title": "Enchanted Garden",
-        "price": 100
-      },
-    
-      {
-        "id": "/attractions/lobocriver.html",
-        "url": "/attractions/lobocriver.html",
-        "title": "Loboc River Cruise",
-        "price": 750
-      },
-    
-      {
-        "id": "/attractions/chocohills.html",
-        "url": "/attractions/chocohills.html",
-        "title": "Chocolate Hills",
-        "price": 100
-      },
-    
-      {
         "id": "/attractions/hinagdanancave.html",
         "url": "/attractions/hinagdanancave.html",
         "title": "Hinagdanan Cave",
         "price": 175
+      },
+    
+      {
+        "id": "/attractions/baclayonchurch.html",
+        "url": "/attractions/baclayonchurch.html",
+        "title": "Baclayon Church",
+        "price": 50
       },
     
       {
@@ -69,6 +62,13 @@
         "url": "/attractions/xzootic.html",
         "title": "Xzootic Animal Park",
         "price": 100
+      },
+    
+      {
+        "id": "/attractions/lobocriver.html",
+        "url": "/attractions/lobocriver.html",
+        "title": "Loboc River Cruise",
+        "price": 750
       }
     
   ]
