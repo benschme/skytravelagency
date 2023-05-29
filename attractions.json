@@ -2,13 +2,6 @@
   "attractions": [
     
       {
-        "id": "/attractions/baclayonchurch.html",
-        "url": "/attractions/baclayonchurch.html",
-        "title": "Baclayon Church",
-        "price": 50
-      },
-    
-      {
         "id": "/attractions/bilarforest.html",
         "url": "/attractions/bilarforest.html",
         "title": "Bilar Man-Made Forest",
@@ -20,6 +13,13 @@
         "url": "/attractions/chocohills.html",
         "title": "Chocolate Hills",
         "price": 100
+      },
+    
+      {
+        "id": "/attractions/baclayonchurch.html",
+        "url": "/attractions/baclayonchurch.html",
+        "title": "Baclayon Church",
+        "price": 50
       },
     
       {
@@ -44,17 +44,17 @@
       },
     
       {
+        "id": "/attractions/tarsiersanctuary.html",
+        "url": "/attractions/tarsiersanctuary.html",
+        "title": "Philippine Tarsier Sanctuary",
+        "price": 100
+      },
+    
+      {
         "id": "/attractions/hinagdanancave.html",
         "url": "/attractions/hinagdanancave.html",
         "title": "Hinagdanan Cave",
         "price": 175
-      },
-    
-      {
-        "id": "/attractions/lobocriver.html",
-        "url": "/attractions/lobocriver.html",
-        "title": "Loboc River Cruise",
-        "price": 750
       },
     
       {
@@ -65,10 +65,10 @@
       },
     
       {
-        "id": "/attractions/tarsiersanctuary.html",
-        "url": "/attractions/tarsiersanctuary.html",
-        "title": "Philippine Tarsier Sanctuary",
-        "price": 100
+        "id": "/attractions/lobocriver.html",
+        "url": "/attractions/lobocriver.html",
+        "title": "Loboc River Cruise",
+        "price": 750
       }
     
   ]
