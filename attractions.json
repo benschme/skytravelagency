@@ -2,31 +2,10 @@
   "attractions": [
     
       {
-        "id": "/attractions/enchantedgarden.html",
-        "url": "/attractions/enchantedgarden.html",
-        "title": "Enchanted Garden",
-        "price": 100
-      },
-    
-      {
-        "id": "/attractions/chocohills.html",
-        "url": "/attractions/chocohills.html",
-        "title": "Chocolate Hills",
-        "price": 100
-      },
-    
-      {
-        "id": "/attractions/bloodcompact.html",
-        "url": "/attractions/bloodcompact.html",
-        "title": "Blood Compact Shrine",
-        "price": Free
-      },
-    
-      {
-        "id": "/attractions/beaches.html",
-        "url": "/attractions/beaches.html",
-        "title": "Beaches in Panglao Island",
-        "price": Free
+        "id": "/attractions/baclayonchurch.html",
+        "url": "/attractions/baclayonchurch.html",
+        "title": "Baclayon Church",
+        "price": 50
       },
     
       {
@@ -37,6 +16,34 @@
       },
     
       {
+        "id": "/attractions/chocohills.html",
+        "url": "/attractions/chocohills.html",
+        "title": "Chocolate Hills",
+        "price": 100
+      },
+    
+      {
+        "id": "/attractions/beaches.html",
+        "url": "/attractions/beaches.html",
+        "title": "Beaches in Panglao Island",
+        "price": Free
+      },
+    
+      {
+        "id": "/attractions/bloodcompact.html",
+        "url": "/attractions/bloodcompact.html",
+        "title": "Blood Compact Shrine",
+        "price": Free
+      },
+    
+      {
+        "id": "/attractions/enchantedgarden.html",
+        "url": "/attractions/enchantedgarden.html",
+        "title": "Enchanted Garden",
+        "price": 100
+      },
+    
+      {
         "id": "/attractions/hinagdanancave.html",
         "url": "/attractions/hinagdanancave.html",
         "title": "Hinagdanan Cave",
@@ -44,17 +51,10 @@
       },
     
       {
-        "id": "/attractions/baclayonchurch.html",
-        "url": "/attractions/baclayonchurch.html",
-        "title": "Baclayon Church",
-        "price": 50
-      },
-    
-      {
-        "id": "/attractions/tarsiersanctuary.html",
-        "url": "/attractions/tarsiersanctuary.html",
-        "title": "Philippine Tarsier Sanctuary",
-        "price": 100
+        "id": "/attractions/lobocriver.html",
+        "url": "/attractions/lobocriver.html",
+        "title": "Loboc River Cruise",
+        "price": 750
       },
     
       {
@@ -65,10 +65,10 @@
       },
     
       {
-        "id": "/attractions/lobocriver.html",
-        "url": "/attractions/lobocriver.html",
-        "title": "Loboc River Cruise",
-        "price": 750
+        "id": "/attractions/tarsiersanctuary.html",
+        "url": "/attractions/tarsiersanctuary.html",
+        "title": "Philippine Tarsier Sanctuary",
+        "price": 100
       }
     
   ]
